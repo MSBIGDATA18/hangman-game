@@ -4,3 +4,4 @@ Start by importing the necessary libraries: tkinter for creating the graphical u
 # Step 2 : Define a List of Words
 Create a list of words that will be used in the game. These words will be the ones the player has to guess.
 # Step 3: Initialize the Main Tkinter Window
+Set up the main window for the game, including giving it a title and setting its dimensions.
